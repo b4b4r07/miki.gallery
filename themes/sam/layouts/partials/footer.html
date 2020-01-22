@@ -1,1 +1,13 @@
 {{ .Site.Params.footerText | markdownify }}
+
+<div>
+    <ul class="social">
+        {{ range .Site.Params.social }}
+        <li class="social">
+            <a href="{{ .url }}" target="_blank">
+                <i class="fab {{ .fa_icon }}"></i>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
