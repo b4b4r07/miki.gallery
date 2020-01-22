@@ -4,7 +4,7 @@ defaultContentLanguage   = "en"
 isMultilingual           = false
 title                    = "Call me Sam"
 theme                    = "sam"
-pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsStyle            = "monokai"
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
@@ -12,12 +12,12 @@ pygmentsCodefences       = true
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
-    homepage             = "main"                           # What to call the home page link
-    footerText           = "Call me Sam, a theme for Hugo."
+    homepage             = "home"
+    footerText           = "miki.gallery"
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    description          = "Gallery for Miki ISHIYAMA"
+    images               = ["tn.png"]
     title                = "Call me Sam"
 
 [[params.mainMenu]]
@@ -34,7 +34,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is sam?"
+    text = "who is miki?"
 
 [imaging]
     quality = 75
