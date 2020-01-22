@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Call me Sam</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Call me Sam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>シェル美術賞2019 受賞</title>
+      <link>https://example.com/posts/shell-award-2019/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/shell-award-2019/</guid>
+      <description>&amp;ldquo;New Misery&amp;rdquo;(1,300×1,620mm) シェル美術賞2019にてわたしの作品が角奈緒子審査員賞を受賞致しました。
+シェル美術賞展
+ 会期・・・  12月11日（水）～ 12月23日（月） ※17日（火）休館  時間・・・  10時00分から18時00分（入場締切17時30分）  会場・・・  国立新美術館 1階展示室1B（東京都港区六本木7-22-2） TEL：03-6812-9921 ※会期中のみ   ※13日（金）、20日（金）は20時00分（入場締切19時30分）まで夜間開館 ※最終日23日（月）は、16時00分（入場締切15時30分）まで開館 ※以下の時間は、関連イベント開催のため、展覧会場内が混雑する可能性があります。ご了承のほど、よろしくお願いいたします。 ○13日（金） 14時10分～16時20分 講評会● 受 賞・入選者を対象としたイベントですが、一般のお客様もご入場いただけます。 ○14日（土） 14時00分～15時00分 アーティストトーク● 一般のお客様を対象としたイベントです。
+シェル美術賞ホームページ→https://www.idss.co.jp/enjoy/culture_art/art/</description>
+    </item>
+    
+    <item>
+      <title>展示のお知らせ</title>
+      <link>https://example.com/posts/flewgallery-2020/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/flewgallery-2020/</guid>
+      <description>千駄木のフリュウギャラリー にて作品を2点展示します。 詳細は以下のとおりです。
+ スクエア ザ・ダブルVol.14 会期:2020.1.17(金)-1.29(水)  12:00〜19:00(最終日15:00まで) ※23(木)はおやすみ  場所:フリュウ・ギャラリー 在廊予定日  20日(月)15:30〜19:00 29日(水)12:00〜15:00   ギャラリーホームページ →https://www.flewgallery.jp/exhibition/square_the_double_14/
+お時間のある方はぜひお越しください。 お待ちしております。</description>
+    </item>
+    
+  </channel>
+</rss>
