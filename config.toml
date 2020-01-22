@@ -16,9 +16,9 @@ pygmentsCodefences       = true
     footerText           = "miki.gallery"
 
 # Metadata for Open Graph and Twitter
-    description          = "Gallery for Miki ISHIYAMA"
-    images               = ["tn.png"]
     title                = "MIKI's Gallery"
+    description          = "Gallery for Miki"
+    images               = ["tn.png"]
 
 [[params.mainMenu]]
     link = "/news"
@@ -34,7 +34,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is miki?"
+    text = "contact"
 
 [imaging]
     quality = 75
