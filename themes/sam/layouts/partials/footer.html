@@ -5,7 +5,7 @@
         {{ range .Site.Params.social }}
         <li class="social">
             <a href="{{ .url }}" target="_blank">
-                <i class="fab {{ .fa_icon }}"></i>
+                <i class="{{ .fa_icon }}"></i>
             </a>
         </li>
         {{ end }}

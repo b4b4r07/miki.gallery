@@ -34,15 +34,19 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "contact"
+    text = "me"
 
 [[params.social]]
     url = "https://instagram.com/lfjlit"
-    fa_icon = "fa-instagram"
+    fa_icon = "fab fa-instagram"
 
 [[params.social]]
     url = "https://twitter.com/lfjlit"
-    fa_icon = "fa-twitter"
+    fa_icon = "fab fa-twitter"
+
+[[params.social]]
+    url = "mailto:lfjlit@gmail.com"
+    fa_icon = "far fa-envelope"
 
 [imaging]
     quality = 75
