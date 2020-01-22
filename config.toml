@@ -1,15 +1,15 @@
-baseurl                  = "https://hoge.netlify.com/"
+baseurl                  = "https://miki.gallery"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Call me Sam"
+title                    = "MIKI's Gallery"
 theme                    = "sam"
 pygmentsStyle            = "monokai"
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
-    dateform             = "Mon Jan 02, 2006"
+    dateform             = "Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
     homepage             = "home"
@@ -18,11 +18,11 @@ pygmentsCodefences       = true
 # Metadata for Open Graph and Twitter
     description          = "Gallery for Miki ISHIYAMA"
     images               = ["tn.png"]
-    title                = "Call me Sam"
+    title                = "MIKI's Gallery"
 
 [[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
+    link = "/news"
+    text = "news"
 
 [[params.mainMenu]]
     link = "/gallery"
