@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "netlify-identity-widget": "^1.5.6"
+    "netlify-identity-widget": "^1.5.6",
+    "postcss-cli": "^7.1.0"
   }
 }
