@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: b4b4r07/miki.gallery
+  name: git-gateway
+  branch: master
 
 media_folder: "static/images"
 
