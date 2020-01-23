@@ -1,8 +1,13 @@
 ---
-title: シェル美術賞2019 受賞
-date: 2019-11-25T00:00:00.000Z
-thumbnail: images/shell-art-award.jpg
+title: "シェル美術賞2019 受賞"
+date: 2019-11-25
+showDate: true
+draft: false
+tags: ["award"]
+images:
+    - /posts/shell-award.jpg
 ---
+
 ![](/news/shell-art-award.jpg)
 
 > "New Misery"(1,300×1,620mm)
