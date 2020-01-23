@@ -3,7 +3,7 @@ title: "シェル美術賞2019 受賞"
 date: 2019-11-25
 showDate: true
 draft: false
-tags: ["classic","poem"]
+tags: ["award"]
 images:
     - /posts/shell-award.jpg
 ---

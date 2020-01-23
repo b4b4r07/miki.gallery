@@ -1,9 +1,9 @@
 ---
 title: "展示のお知らせ"
-date: 2019-10-25
+date: 2020-01-15
 showDate: true
 draft: false
-tags: ["classic","poem"]
+tags: ["event"]
 ---
 
 千駄木のフリュウギャラリー にて作品を2点展示します。
