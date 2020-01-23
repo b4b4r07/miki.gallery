@@ -29,3 +29,6 @@ collections:
       - label: "About Page"
         name: "about"
         file: "content/about.md"
+        fields:
+          - {label: "タイトル", name: "title", widget: "string"}
+          - {label: "公開日", name: "date", widget: "datetime", dateFormat: "YYYY-MM-DD"}
