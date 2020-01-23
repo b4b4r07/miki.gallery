@@ -8,7 +8,7 @@ images:
     - /posts/shell-award.jpg
 ---
 
-![](/posts/shell-award.jpg)
+![](/news/shell-art-award.jpg)
 
 > "New Misery"(1,300×1,620mm)
 
