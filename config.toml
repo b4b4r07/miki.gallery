@@ -35,6 +35,13 @@ pygmentsCodefences       = true
     link = "/about"
     text = "me"
 
+# [[params.words]]
+#     text = "I'm miki."
+# [[params.words]]
+#     text = "I like designing and painting."
+# [[params.words]]
+#     text = 'But my real goal is to <a class="blue">make</a> <a class="blueb">art</a>.'
+
 [[params.social]]
     url = "https://instagram.com/lfjlit"
     fa_icon = "fab fa-instagram"

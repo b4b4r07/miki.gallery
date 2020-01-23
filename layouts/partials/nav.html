@@ -1,0 +1,32 @@
+<div id="nav-toggle">
+    <div>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+
+<div id="gloval-nav">
+    <nav>
+        {{ if .Site.Params.mainMenu }}
+        <ul>
+            {{ range .Site.Params.mainMenu }}
+            <li><a href="{{.link}}">{{.text}}</a></li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </nav>
+</div>
+
+<!-- <div id="gloval-nav">                        -->
+<!--     <nav>                                    -->
+<!--         <ul>                                 -->
+<!--             <li><a href="#">Home</a></li>    -->
+<!--             <li><a href="#">News</a></li>    -->
+<!--             <li><a href="#">About</a></li>   -->
+<!--             <li><a href="#">Works</a></li>   -->
+<!--             <li><a href="#">Contact</a></li> -->
+<!--         </ul>                                -->
+<!--     </nav>                                   -->
+<!-- </div>                                       -->
+

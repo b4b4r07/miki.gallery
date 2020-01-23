@@ -3,29 +3,19 @@
     <head>
         {{ partial "head.html" . }}
         <title>{{ .Title }}</title>
+        <link rel="stylesheet" href="/css/splash.css">
+        <link rel="stylesheet" href="/css/nav.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
     </head>
+
     <body>
-        <div class="section" id="splash">
+        {{ partial "nav.html" . }}
+        {{ partial "splash.html" . }}
 
-            {{ if .Site.Params.mainMenu }}
-                {{ range .Site.Params.mainMenu }}
-                    <div class="big-link">
-                        <a href="{{.link}}">
-                            {{.text}}
-                        </a>
-                    </div>
-                {{ end }}
-
-            {{ else }}
-                {{ range .Site.Sections }}
-                    <div class="big-link"> 
-                        <a href="{{.Permalink}}">
-                            {{.Title}}
-                        </a>
-                    </div>
-                {{ end }}
-            {{ end }}
-            
-        </div>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src="/js/nav.js"></script>
     </body>
 </html>
