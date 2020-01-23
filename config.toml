@@ -3,7 +3,6 @@ languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
 title                    = "MIKI's Gallery"
-# theme                    = "sam"
 pygmentsStyle            = "monokai"
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
