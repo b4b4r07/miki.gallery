@@ -15,9 +15,9 @@ pygmentsCodefences       = true
     # footerText           = "miki.gallery"
 
 # Metadata for Open Graph and Twitter
-    title                = "MIKI's Gallery"
-    description          = "Gallery for Miki"
-    images               = ["tn.png"]
+    title                = "lfjlit"
+    description          = "Welcome to miki's website"
+    images               = ["lfjlit.jpg"]
 
 [[params.mainMenu]]
     link = "/news"
