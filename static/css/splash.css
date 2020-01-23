@@ -83,7 +83,8 @@ p {
     color: #000;
   }
   100% {
-    color: #2c90c6;
+    /* color: #2c90c6; */ /* blue */
+    color: #f05e23;
   }
 }
 @-moz-keyframes color {
@@ -91,7 +92,8 @@ p {
     color: #000;
   }
   100% {
-    color: #2c90c6;
+    /* color: #2c90c6; */ /* blue */
+    color: #f05e23;
   }
 }
 @keyframes color {
@@ -99,7 +101,8 @@ p {
     color: #000;
   }
   100% {
-    color: #2c90c6;
+    /* color: #2c90c6; */ /* blue */
+    color: #f05e23;
   }
 }
 @-webkit-keyframes scroll {
