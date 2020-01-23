@@ -25,12 +25,12 @@ pygmentsCodefences       = true
     text = "news"
 
 [[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
+    link = "/paintings"
+    text = "paintings"
 
 [[params.mainMenu]]
-    link = "/portfolio"
-    text = "portfolio"
+    link = "/drawings"
+    text = "drawings"
 
 [[params.mainMenu]]
     link = "/about"

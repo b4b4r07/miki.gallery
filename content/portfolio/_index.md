@@ -1,7 +1,7 @@
 ---
-title: "Portfolio"
+title: "Drawings"
 type: "gallery"
-url: "/portfolio"
+url: "/drawings"
 maxWidth: "600x"
 clickablePhotos: false
 ---
