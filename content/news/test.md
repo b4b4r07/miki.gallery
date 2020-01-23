@@ -5,12 +5,4 @@ showDate: true
 tags:
   - event
 ---
-test
-
-test
-
-test
-
-# hoge
-
-![](images/shell-art-award.jpg)
+![](/images/shell-art-award.jpg)
