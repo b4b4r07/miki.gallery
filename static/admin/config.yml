@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: b4b4r07/miki.gallery
+
+media_folder: "static/images"
+
+public_folder: "images/"
+
+collections:
+  - label: "Blog"
+    name: "news"
+    folder: "content/news"
+    create: true
+    # slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "公開日", name: "date", widget: "datetime"}
+      - {label: "サムネイル画像", name: "thumbnail", widget: "image"}
+      - {label: "本文", name: "body", widget: "markdown"}
