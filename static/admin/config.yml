@@ -21,3 +21,11 @@ collections:
       - {label: "公開日を表示する", name: "showDate", widget: "boolean", default: true}
       - {label: "タグ", name: "tags", widget: "list", required: false}
       - {label: "本文", name: "body", widget: "markdown"}
+  - label: "Pages"
+    name: "pages"
+    create: false
+    delete: false
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "content/about.md"
