@@ -21,14 +21,15 @@ collections:
       - {label: "公開日を表示する", name: "showDate", widget: "boolean", default: true}
       - {label: "タグ", name: "tags", widget: "list", required: false}
       - {label: "本文", name: "body", widget: "markdown"}
-  - label: "Pages"
-    name: "pages"
-    create: true
+  - label: "About"
+    name: "about"
+    create: false
     delete: false
     files:
-      - label: "About Page"
+      - label: "About"
         name: "about"
         file: "content/about.md"
         fields:
           - {label: "タイトル", name: "title", widget: "string"}
           - {label: "公開日", name: "date", widget: "datetime", dateFormat: "YYYY-MM-DD"}
+          - {label: "本文", name: "body", widget: "markdown"}
