@@ -5,7 +5,7 @@ showDate: true
 draft: false
 tags: ["award"]
 images:
-    - /posts/shell-award.jpg
+    - /news/shell-art-award.jpg
 ---
 
 ![](/news/shell-art-award.jpg)
