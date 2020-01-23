@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "autoprefixer": "^9.7.4",
     "netlify-identity-widget": "^1.5.6",
     "postcss-cli": "^7.1.0"
   }
