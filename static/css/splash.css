@@ -1,7 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
-  font-weight: 200;
+  font-weight: 400;
   /* font-family: helvetica neue, helvetica, arial, sans-serif; */
   /* -webkit-font-smoothing: antialiased;                       */
 }
@@ -40,12 +40,12 @@ p {
 }
 .scroller span {
   display: block;
-  font-size: 200%;
   color: #fff;
+  font-size: 200%;
 }
 @media only screen and (max-width: 500px) {
     .scroller span {
-        font-size: 100%;
+        font-size: 90%;
     }
 }
 .scroller .inner {
