@@ -45,7 +45,7 @@ p {
 }
 @media only screen and (max-width: 500px) {
     .scroller span {
-        font-size: 90%;
+        font-size: 100%;
     }
 }
 .scroller .inner {
